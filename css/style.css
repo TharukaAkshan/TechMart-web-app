@@ -1,0 +1,207 @@
+/* body{
+    background-color: rgb(117, 180, 146);
+    margin-top: 0%;
+} */
+
+/* ==================navbar============================ */
+
+.container-fluid{
+    height: auto;
+    background-color: rgb(0, 197, 16);
+
+}
+.d-grid{
+    margin: 30px 30px;
+}
+.navbar-brand{
+    font-size: 2.8rem;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 900;
+}
+.btn{
+    background-color: brown;
+    padding: 10px 25px 10px 25px;
+    font-size: 1.5rem;
+    font-family: 'Fredoka One', cursive; 
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+/* ==================navbar end============================ */
+
+
+/* ======================search bar=================== */
+.input-group{
+    width:auto;
+    height: 70px;
+    font-size: 1.5rem;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+.search{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    padding: 50px 50px;
+}
+.form-control{
+    font-size: 1.5rem;
+}
+.input-group-text{
+    padding-left: 50px;
+}
+.search-btn{
+    width: 70px;
+    height: auto;
+    
+}
+.search-btn:hover{
+    background-color: red;
+}
+/* ======================search bar end=================== */
+
+/* =====================top section============================ */
+
+.top-image{
+    width: 100%;
+    height: 300px;
+    /* position: relative;
+    margin-top: -7px; */
+
+  
+}
+
+/* =====================top section end============================ */
+
+/* ===================middle section========================== */
+.middle-section{
+    background-color: rgb(56, 56, 56);
+    width: 100%;
+    height: auto;
+    padding: 70px 50px 70px 50px;
+}
+.details-row img{
+    float:left;
+    margin-bottom: 20px;
+
+}
+.details-row p{
+    float: right;
+    padding-right: 30px;
+    font-style: italic;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+}
+/* ===================middle section end========================== */
+
+/* ============================bottom section================== */
+
+.bottom-line{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+}
+.bottom-section{
+    background-color: rgb(1, 107, 9);
+    height: auto;
+}
+
+.social-links{
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.social-links a{
+    color: white;
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 1rem;
+}
+.bottom-last{
+    text-align: center;
+    margin-top: 30px;
+}
+.bottom-last p{
+    color: white;
+}
+.bottom-last img{
+    width: 60px;
+    height: 30px;
+    margin-bottom: 50px;
+}
+
+/* ============================bottom section end================== */
+
+
+
+
+
+/* ==================================home page end================================================================================================================ */
+
+
+/* =========================================login page==================================================================================================================== */
+body{
+
+}
+.main-section{
+    width: auto;
+    height: auto;
+}
+.main-section img{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+
+}
+
+h1{
+    color: white;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    padding-top: 200px;
+
+}
+.login-section{
+     width: 600px;
+     height: 600px;
+     background-color: white;
+     margin: auto;
+     margin-top: 10px;
+     border: solid black ;
+     text-align: center;
+
+}
+.login-section h3{
+    padding: 40px;
+    margin-bottom: 60px;
+    
+}
+.form{
+    width: 300px;
+    margin-bottom: 30px;
+    height: 40px;
+}
+.checkbox{
+    font-size: small;
+    text-align: left;
+    margin-left: 150px;
+    margin-bottom: 40px;   
+}
+#login{
+    width: 300px;
+    height: 40px;
+    font-size: 1.5rem;
+    padding-top: 1px;
+}
+.signup-label{
+    margin-top: 50px;
+}
+.signup-label a{
+    text-decoration: none;
+}
+ /* =========================================login page end==================================================================================================================== */
